@@ -1,0 +1,23 @@
+name: tennis-ml
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+
+  - numpy
+  - pandas
+  - scipy
+
+  - scikit-learn
+  - xgboost
+  - joblib
+
+  - matplotlib
+
+  - jupyterlab
+  - ipykernel
+
+  - pip
+  - pip:
+      - torch
+

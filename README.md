@@ -15,7 +15,7 @@ ATP match data from 2024 is used for testing.
 Odds data from bet365 (2024) is used for testing
 
 ## Models
-### File: tennis_pytorch_no_embeddings
+### File: tennis_pytorch_no_embeddings_last
 - Neural Network (PyTorch)
 ### File: tennis_scikit_randomforest_og_XGBoost
 - Random Forest (scikit-learn)

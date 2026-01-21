@@ -34,10 +34,10 @@ tennis_scikit_randomforest og XGBoost.ipynb
 - Baseline‑models: Random Forest og XGBoost
 
 environment.yml
--Conda‑environment
+- Conda‑environment
 
 *.csv
--Datafiles
+- Datafiles
 
 Den_rigtige_parametre_test.xlsx
 - Hyperparameter analysis

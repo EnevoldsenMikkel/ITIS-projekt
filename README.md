@@ -27,6 +27,16 @@ Create the conda environment:
 - conda activate tennis-ml
 
 ## Code structure
+tennis_pytorch_no_embeddings_last.ipynb
+- Neuralt netværk: feature‑engineering, training og testing
+tennis_scikit_randomforest og XGBoost.ipynb
+- Baseline‑models: Random Forest og XGBoost
+environment.yml
+-Conda‑environment
+*.csv
+-Datafiles
+Den_rigtige_parametre_test.xlsx
+- Hyperparameter analysis
 
 
 

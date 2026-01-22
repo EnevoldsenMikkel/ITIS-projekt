@@ -42,6 +42,9 @@ environment.yml
 Den_rigtige_parametre_test.xlsx
 - Hyperparameter analysis
 
+### Important!
+Collect atp_matches_2000.csv, atp_matches_2001.csv, ... , atp_maches_2023.csv in af folder called "atp_matches"
+
 
 
 
